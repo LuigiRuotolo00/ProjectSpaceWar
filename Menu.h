@@ -57,6 +57,10 @@ class MainMenu : public Menu
             std::cout<<"\t\t\t"<< this->menuIcon[0] <<" NEW GAME"<<std::endl;
             std::cout<<"\t\t\t"<< this->menuIcon[1] <<" COMMANDS"<<std::endl;
             std::cout<<"\t\t\t"<< this->menuIcon[2] <<" EXIT"<<std::endl;
+            std::cout<<"NAVIGATE THE MENU':"<<std::endl;
+            std::cout<<"W --> GO UP"<<std::endl;
+            std::cout<<"S --> GO DOWN"<<std::endl;
+            std::cout<<"ENTER --> SELECT VOICE MENU"<<std::endl;
         }
 
         void changeLine() override
