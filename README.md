@@ -1,6 +1,9 @@
 # SpaceWar
 a "space invaders-like" game
 
+## About This Project
+This project was developed as a personal exercise during my high school years to practice C++ and game development fundamentals. It was my first attempt at recreating a classic arcade game, with a focus on learning core programming concepts and implementing basic game mechanics.
+
 ## Project Description
 This project is inspired by the classic Space Invaders experience in a text-based format using ASCII characters. It's lightweight, written in C++, and provides a retro gaming experience directly in the terminal.
 
