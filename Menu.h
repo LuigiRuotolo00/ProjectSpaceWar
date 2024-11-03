@@ -55,7 +55,7 @@ class MainMenu : public Menu
         {
             std::cout<<"\t\t\t\tMAIN MENU'"<<std::endl;
             std::cout<<"\t\t\t"<< this->menuIcon[0] <<" NEW GAME"<<std::endl;
-            std::cout<<"\t\t\t"<< this->menuIcon[1] <<" COMANDS"<<std::endl;
+            std::cout<<"\t\t\t"<< this->menuIcon[1] <<" COMMANDS"<<std::endl;
             std::cout<<"\t\t\t"<< this->menuIcon[2] <<" EXIT"<<std::endl;
         }
 
