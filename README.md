@@ -4,6 +4,10 @@ a "space invaders-like" game
 ## About This Project
 This project was developed as a personal exercise during my high school years to practice C++ and game development fundamentals. It was my first attempt at recreating a classic arcade game, with a focus on learning core programming concepts and implementing basic game mechanics.
 
+![Menu](images/screenmenu.png)
+
+![Game](images/screengame.png)
+
 ## Project Description
 This project is inspired by the classic Space Invaders experience in a text-based format using ASCII characters. It's lightweight, written in C++, and provides a retro gaming experience directly in the terminal.
 
@@ -24,4 +28,5 @@ This project is inspired by the classic Space Invaders experience in a text-base
    ```bash
    git clone https://github.com/LuigiRuotolo00/SpaceWar.git
    cd space-war
-2. **Compile the game** In VS Code, press Ctrl+Shift+B (or Terminal > Run Build Task...).
+2. **Open the folder SapceWar** in VS Code, press Ctrl+K Ctrl+O (or File > Open Folder...).
+3. **Compile the game** by pressing Ctrl+Shift+B (or Terminal > Run Build Task...).
